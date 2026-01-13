@@ -1,0 +1,9 @@
+{
+  "name": "DrawStream Pro",
+  "description": "A professional-grade tool for drawing over videos, screen recording, and real-time camera overlays. Perfect for tutorials, reviews, and creative storytelling.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "display-capture"
+  ]
+}
